@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Somya Gupta
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Data structure with python
-- 💞️ I’m looking for an internship
+- 🌱 I’m currently working in Capgemini 
+- 💞️ I’m looking for opportunities 
 - 📫 Email- somyagupta2709@gmail.com
 
 <!---
